@@ -1,7 +1,7 @@
 %define fontname	Aegyptus
 %define name		fonts-otf-%{fontname}
 %define version		3.11
-%define release		%mkrel 2
+%define release		%mkrel 3
 
 %define fontdir		%{_datadir}/fonts/OTF/%{fontname}
 %define fontconfdir	%{_sysconfdir}/X11/fontpath.d
