@@ -14,7 +14,7 @@ Source0:	http://users.teilar.gr/~g1951d/%{fontname}311.zip
 Source1:	http://users.teilar.gr/~g1951d/Gardiner311.zip
 License:	Public Domain
 Group:		System/Fonts/True type
-Url:		http://users.teilar.gr/~g1951d/
+Url:		https://users.teilar.gr/~g1951d/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
 BuildRequires: fontconfig
